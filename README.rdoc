@@ -1,6 +1,11 @@
+== README
+
 Simple exercise in associating rails models to each other.
 
-Users have many posts
-Users have many comments
-Posts belong to users and have many comments
-Comments belong to users and to posts
+* Users have many posts and many comments
+
+* Posts belong to users and have many comments
+
+* Comments belong to users and to posts
+
+
